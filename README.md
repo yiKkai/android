@@ -41,7 +41,4 @@
 
 推荐: **推荐**所有贡献者在向远程推代码之前，都pull一下远程的master分支，因为这样会让提交记录变得更清晰，同时合并代码的时候也会变的更简洁。
 
-## 核心贡献者
 
-- [关玮琳linSir](http://linsir.top/)
-- [徐桑博xiaoxiangyeyuHeaven](https://github.com/xiaoxiangyeyuHeaven)
